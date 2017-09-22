@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Something Old
+title: Something New
 ---
 
-# Something Old
+# Something New
 
 ## CV
 
@@ -14,7 +14,7 @@ a climate data person.
 
 Trying out things
 
-###
+### Edamame
 
 Edamame is an awesome cat.
 
