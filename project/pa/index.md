@@ -1,3 +1,8 @@
+
+---
+layout: default
+title: Paris Agreement Tracker
+---
 ### Hello!
 
 ### Paris Agreement - Status of Ratification
