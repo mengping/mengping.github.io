@@ -6,5 +6,5 @@ title: Something Borrowed
 # Something Borrowed
 
 
-1. [Paris Map](./pa)
-2. [Sankey Chart](./sankey)
+1. [Paris Map](project/pa)
+2. [Sankey Chart](project/sankey)
