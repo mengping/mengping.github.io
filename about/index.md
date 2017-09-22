@@ -3,6 +3,6 @@ layout: default
 title: Something Old
 ---
 
-### About
+# Something Old
 
 Testing *Markdown* in about page
