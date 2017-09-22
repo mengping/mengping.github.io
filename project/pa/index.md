@@ -2,8 +2,6 @@
 layout: default
 title: Paris Agreement Tracker
 ---
-### Hello!
-
 ### Paris Agreement - Status of Ratification
 This is my simplified version of the [CAIT Paris Agreement Tracker](http://cait.wri.org/indc/#/ratification).
 

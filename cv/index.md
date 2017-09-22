@@ -5,40 +5,31 @@ title: Something New
 
 # Something New
 
-## CV
+## SOMEONE'S CV
 
-# Some One
+# Someone
 a climate data person.
 
 ## Currently
-
-Trying out things
+Trying out things.
 
 ### Edamame
-
 Edamame is an awesome cat.
+### Climate Data
+Emissions, NDCs, Policies, Actions
 
-
-## Things
-
-`1990-2008`
-__The city of salt.__
-
-`2008-2012`
-__A great place.__
-
-`1990-2008`
-__A great place.__
-
-- 22
-
-`2012-2013`
-__A city of steel.__
-
-- 23
-
+## Lifeline
 `2013-Current`
-__A city of momument.__
+__A city not quite a square.__
+`2012-2013`
+__A city of bridges.__
+`2008-2012`
+__A once capital of six dynasties.__
+`1990-2008`
+__A city of salt.__
+
+
+
 
 <!-- ### Footer
 Last updated: Sep 2017 -->
