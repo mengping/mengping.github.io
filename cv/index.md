@@ -10,12 +10,6 @@ title: Something Old
 # Some One
 a climate data person.
 
-<div id="contact">
-<i class="fa fa-envelope" aria-hidden="true"></i><a href="menpin.ge@gmail.com">email</a>
-| <i class="fa fa-github-alt"></i> <a href="https://github.com/mengping">github</a>
-</div>
-
-
 ## Currently
 
 Trying out things
