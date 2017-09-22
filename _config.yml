@@ -1,1 +1,9 @@
+title: Mengping.GitHub.io
+description: allons-y
+google_analytics: UA-106821204-1
+show_downloads: true
 theme: jekyll-theme-minimal
+
+gems:
+  - jekyll-mentions
+permalink: /blog/:year/:month/:day/:title
